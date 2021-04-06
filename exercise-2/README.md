@@ -16,7 +16,7 @@ Learn the basics of git workflow, including adding new files.
 
 5. Add the image to this file using markdown syntax.
    
-5. Write a paragraph of text where you explaine what the picture is
+5. Write a paragraph of text where you explain what the picture is
    about.  Feel free to add more.
 
 4. commit your changes:  
@@ -26,3 +26,7 @@ Learn the basics of git workflow, including adding new files.
 `git push`
 
 6. check the repo on your github account.  Did it work?
+
+
+![This is a picutre of the Washington Coast](./picture.jpg)
+This picture is from a trip I went on to the Washington coast in February a few years ago. It was not raining that day making it a rare trip and a rare photo for that time of year.
