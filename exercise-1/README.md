@@ -6,6 +6,10 @@ account for your machine (which you'll only need to do once), and then
 move through the steps of working with Git and GitHub (which will soon
 become second nature).
 
+What I ate for breakfast this morning
+
+- cereal
+
 1. If you haven't already, configure your name and email address for
 your GitHub account using the terminal.  See [Installation &
 Setup](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#installation-setup). 
